@@ -2,7 +2,7 @@
 Firstly, I’d like to acknowledge the contributions of my team members, who collaborated with me on this project and played a crucial role in its success.
 
 # Skin disorder prediction
-Skin diseases, particularly erythemato-squamous conditions, pose a significant challenge in dermatology due to their overlapping clinical features. Conditions like psoriasis, seborrheic dermatitis, lichen planus, pityriasis rosea, chronic dermatitis, and pityriasis rubra pilaris share common symptoms such as erythema and scaling. Accurate diagnosis is crucial for effective treatment, but histopathological features can be similar across these diseases.
+This project focuses on predicting skin disorders by analyzing various clinical features. Using a dataset with columns such as erythema, scaling, definite borders, itching, and specific skin involvements (like scalp and elbows), we aim to develop a model that can accurately distinguish between different skin conditions. By incorporating features like family history, melanin levels, and microscopic characteristics like eosinophils and fibrosis, our model seeks to enhance diagnostic accuracy and support dermatologists in providing more effective treatments.
 In this report, we address three key tasks:
 
 #### 1. Data Analysis Report: 
